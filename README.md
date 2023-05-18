@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-I'm a high-school programmer that develop random software. I'm currently contributing the high school FRC team Cartesian Robotics.
+I'm a high-school programmer that develop interesting random software. I'm currently a member of the high school FRC team Cartesian Robotics.
 
 * 🌍  I'm based in Ankara/Turkey
 * ✉️  You can contact me at [mustafaozarslan20@gmail.com](mailto:mustafaozarslan20@gmail.com)
